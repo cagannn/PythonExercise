@@ -1,4 +1,5 @@
 #Kelimenini içinde istenen harften kaç tenae olduğunu bulan fonksiyon
+#a=kelime, b=kaçtane olduğu bulunması istenen harf
 def bul(a,b):
     sayac=0;
     t=len(a)
